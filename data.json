@@ -1,0 +1,40 @@
+[
+    {
+        "input": "Inside Chi's nursery",
+        "output": "kardashian"
+    },
+    {
+        "input": "Why I dyed my hair pink",
+        "output": "kardashian"
+    },
+    {
+        "input": "Feeling Blue (wearing @kkwbeauty powder contour in medium & dark contour kit as eye shadow, & a new lip coming soon)",
+        "output": "kardashian"
+    },
+    {
+        "input": "The Classic Blossom Palette is SOLD OUT 🌸 Can’t wait to see all your looks with this! Sign up for restock updates: https://kkwbeauty.com/pages/signup )",
+        "output": "kardashian"
+    },
+    {
+        "input": "Awww this part of GABBANA makes me so sad 😢😢😢",
+        "output": "kardashian"
+    },
+
+
+    {
+        "input": "Dem Memo: FBI did not disclose who the clients were - the Clinton Campaign and the DNC. Wow!",
+        "output": "trump"
+    },
+    {
+        "input": "Thank you to the great men and women of the United States @SecretService for a job well done!",
+        "output": "trump"
+    },
+    {
+        "input": "Congressman Lee Zeldin is doing a fantastic job in D.C. Tough and smart, he loves our Country and will always be there to do the right thing. He has my Complete and Total Endorsement!",
+        "output": "trump"
+    },
+    {
+        "input": "China is actually placing propaganda ads in the Des Moines Register and other papers, made to look like news. That’s because we are beating them on Trade, opening markets, and the farmers will make a fortune when this is over!",
+        "output": "trump"
+    }
+]
